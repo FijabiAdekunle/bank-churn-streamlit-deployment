@@ -1,4 +1,4 @@
-# bank customer churn prediction app
+# bank-churn-streamlit-deployment
  # 🏦 Bank Customer Churn Prediction App
 
 A user-friendly web app that predicts whether a bank customer is likely to churn using a trained machine learning model. Built with **Streamlit** and powered by a **Random Forest Classifier**.
@@ -8,7 +8,8 @@ A user-friendly web app that predicts whether a bank customer is likely to churn
 
 ## 🚀 Demo
 
-🔗 [Live App](https://your-name.streamlit.app)  
+🔗 **Live App**: [Bank Customer Churn Prediction App](https://bank-customer-churn-prediction-app-szvevdugbfdd8q6oghpuvj.streamlit.app/)
+
 
 ---
 
