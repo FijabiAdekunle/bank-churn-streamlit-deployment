@@ -4,6 +4,10 @@
 A user-friendly web app that predicts whether a bank customer is likely to churn using a trained machine learning model. Built with **Streamlit** and powered by a **Random Forest Classifier**.
 
 ---
+### 📸 App Preview
+
+![App Screenshot](https://i.postimg.cc/m2WmG5D4/Bank-Customer-Churn-Pred-Web-App-Snapshot.png)  
+<sub>_Screenshot of the deployed Streamlit app interface_</sub>
 
 ## 📌 Features
 
