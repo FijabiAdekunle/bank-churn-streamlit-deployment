@@ -10,7 +10,7 @@ with open('rf_model.pkl', 'rb') as file:
     model = pickle.load(file)
 
 # --- SIDEBAR ---
-st.sidebar.image("https://i.postimg.cc/zvWfzymj/IMG-20250103-WA0025.jpg", width=200)
+st.sidebar.image("https://i.postimg.cc/tJBWhFpx/Top-Tech-Logo.png", width=200)
 st.sidebar.markdown("## Bank Churn Prediction")
 st.sidebar.write("This app predicts the likelihood of a customer churning.")
 
